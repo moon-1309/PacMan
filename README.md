@@ -9,6 +9,10 @@ But beware! The maze is patrolled by four relentless **Ghosts**—Blinky (red), 
 **Use your arrow keys** (or **W, A, S, D**) to guide Pac-Man. ⬆️⬇️⬅️➡️ Can you outmaneuver the ghosts and conquer the maze? **Start playing and find out!** 🕹️
 
 
-https://github.com/user-attachments/assets/bb7dd4bd-63b8-4cb7-85cf-7ee57729dbcc
+https://github.com/user-attachments/assets/25adc3d0-1c6b-4b08-80fc-30cedf5addb2
+
+
+
+
 
 
