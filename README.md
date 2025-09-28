@@ -7,3 +7,8 @@ Get ready to relive the arcade classic! You are **Pac-Man**, the hungry hero tas
 But beware! The maze is patrolled by four relentless **Ghosts**—Blinky (red), Pinky (pink), Inky (blue), and Clyde (orange). 🔴💖🔵🟠 Avoid their pursuit, eat all the food to complete the level, and aim for the high score! 💯
 
 **Use your arrow keys** (or **W, A, S, D**) to guide Pac-Man. ⬆️⬇️⬅️➡️ Can you outmaneuver the ghosts and conquer the maze? **Start playing and find out!** 🕹️
+
+
+https://github.com/user-attachments/assets/bb7dd4bd-63b8-4cb7-85cf-7ee57729dbcc
+
+
